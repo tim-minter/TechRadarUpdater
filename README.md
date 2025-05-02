@@ -19,6 +19,8 @@ Open http://localhost:3000
 
 You will be presented with a web app that displays the contents of the data\architcure.json file. Most fields can be edited and critically you can add the history items that allow you to move entries between rings and explain the reasoning to the viewer.
 
+![Screenshot of the user interface this app provides.](docs/TechRadarUpdaterScreenshot.png)
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
