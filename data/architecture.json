@@ -1,0 +1,452 @@
+{
+  "entries": [
+    {
+      "id": "entry-1",
+      "title": "Techniques Adopt Tool 1",
+      "quadrant": "Techniques",
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "description": "Placed in adopt for Techniques strategy.",
+          "ringId": "adopt",
+          "moved": 0,
+          "isNew": "TRUE"
+        }
+      ]
+    },
+    {
+      "id": "entry-2",
+      "title": "Techniques Adopt Tool 2",
+      "quadrant": "Techniques",
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "description": "Placed in adopt for Techniques strategy.",
+          "ringId": "adopt",
+          "moved": 0,
+          "isNew": "TRUE"
+        }
+      ]
+    },
+    {
+      "id": "entry-3",
+      "title": "Techniques Trial Tool 1",
+      "quadrant": "Techniques",
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "description": "Placed in trial for Techniques strategy.",
+          "ringId": "trial",
+          "moved": 0,
+          "isNew": "TRUE"
+        }
+      ]
+    },
+    {
+      "id": "entry-4",
+      "title": "Techniques Trial Tool 2",
+      "quadrant": "Techniques",
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "description": "Placed in trial for Techniques strategy.",
+          "ringId": "trial",
+          "moved": 0,
+          "isNew": "TRUE"
+        }
+      ]
+    },
+    {
+      "id": "entry-5",
+      "title": "Techniques Assess Tool 1",
+      "quadrant": "Techniques",
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "description": "Placed in assess for Techniques strategy.",
+          "ringId": "assess",
+          "moved": 0,
+          "isNew": "TRUE"
+        }
+      ]
+    },
+    {
+      "id": "entry-6",
+      "title": "Techniques Assess Tool 2",
+      "quadrant": "Techniques",
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "description": "Placed in assess for Techniques strategy.",
+          "ringId": "assess",
+          "moved": 0,
+          "isNew": "TRUE"
+        }
+      ]
+    },
+    {
+      "id": "entry-7",
+      "title": "Techniques Hold Tool 1",
+      "quadrant": "Techniques",
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "description": "Placed in hold for Techniques strategy.",
+          "ringId": "hold",
+          "moved": 0,
+          "isNew": "TRUE"
+        }
+      ]
+    },
+    {
+      "id": "entry-8",
+      "title": "Techniques Hold Tool 2",
+      "quadrant": "Techniques",
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "description": "Placed in hold for Techniques strategy.",
+          "ringId": "hold",
+          "moved": 0,
+          "isNew": "TRUE"
+        }
+      ]
+    },
+    {
+      "id": "entry-9",
+      "title": "Tools Adopt Tool 1",
+      "quadrant": "Tools",
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "description": "Placed in adopt for Tools strategy.",
+          "ringId": "adopt",
+          "moved": 0,
+          "isNew": "TRUE"
+        }
+      ]
+    },
+    {
+      "id": "entry-10",
+      "title": "Tools Adopt Tool 2",
+      "quadrant": "Tools",
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "description": "Placed in adopt for Tools strategy.",
+          "ringId": "adopt",
+          "moved": 0,
+          "isNew": "TRUE"
+        }
+      ]
+    },
+    {
+      "id": "entry-11",
+      "title": "Tools Trial Tool 1",
+      "quadrant": "Tools",
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "description": "Placed in trial for Tools strategy.",
+          "ringId": "trial",
+          "moved": 0,
+          "isNew": "TRUE"
+        }
+      ]
+    },
+    {
+      "id": "entry-12",
+      "title": "Tools Trial Tool 2",
+      "quadrant": "Tools",
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "description": "Placed in trial for Tools strategy.",
+          "ringId": "trial",
+          "moved": 0,
+          "isNew": "TRUE"
+        }
+      ]
+    },
+    {
+      "id": "entry-13",
+      "title": "Tools Assess Tool 1",
+      "quadrant": "Tools",
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "description": "Placed in assess for Tools strategy.",
+          "ringId": "assess",
+          "moved": 0,
+          "isNew": "TRUE"
+        }
+      ]
+    },
+    {
+      "id": "entry-14",
+      "title": "Tools Assess Tool 2",
+      "quadrant": "Tools",
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "description": "Placed in assess for Tools strategy.",
+          "ringId": "assess",
+          "moved": 0,
+          "isNew": "TRUE"
+        }
+      ]
+    },
+    {
+      "id": "entry-15",
+      "title": "Tools Hold Tool 1",
+      "quadrant": "Tools",
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "description": "Placed in hold for Tools strategy.",
+          "ringId": "hold",
+          "moved": 0,
+          "isNew": "TRUE"
+        }
+      ]
+    },
+    {
+      "id": "entry-16",
+      "title": "Tools Hold Tool 2",
+      "quadrant": "Tools",
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "description": "Placed in hold for Tools strategy.",
+          "ringId": "hold",
+          "moved": 0,
+          "isNew": "TRUE"
+        }
+      ]
+    },
+    {
+      "id": "entry-17",
+      "title": "Platforms Adopt Tool 1",
+      "quadrant": "Platforms",
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "description": "Placed in adopt for Platforms strategy.",
+          "ringId": "adopt",
+          "moved": 0,
+          "isNew": "TRUE"
+        }
+      ]
+    },
+    {
+      "id": "entry-18",
+      "title": "Platforms Adopt Tool 2",
+      "quadrant": "Platforms",
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "description": "Placed in adopt for Platforms strategy.",
+          "ringId": "adopt",
+          "moved": 0,
+          "isNew": "TRUE"
+        }
+      ]
+    },
+    {
+      "id": "entry-19",
+      "title": "Platforms Trial Tool 1",
+      "quadrant": "Platforms",
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "description": "Placed in trial for Platforms strategy.",
+          "ringId": "trial",
+          "moved": 0,
+          "isNew": "TRUE"
+        }
+      ]
+    },
+    {
+      "id": "entry-20",
+      "title": "Platforms Trial Tool 2",
+      "quadrant": "Platforms",
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "description": "Placed in trial for Platforms strategy.",
+          "ringId": "trial",
+          "moved": 0,
+          "isNew": "TRUE"
+        }
+      ]
+    },
+    {
+      "id": "entry-21",
+      "title": "Platforms Assess Tool 1",
+      "quadrant": "Platforms",
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "description": "Placed in assess for Platforms strategy.",
+          "ringId": "assess",
+          "moved": 0,
+          "isNew": "TRUE"
+        }
+      ]
+    },
+    {
+      "id": "entry-22",
+      "title": "Platforms Assess Tool 2",
+      "quadrant": "Platforms",
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "description": "Placed in assess for Platforms strategy.",
+          "ringId": "assess",
+          "moved": 0,
+          "isNew": "TRUE"
+        }
+      ]
+    },
+    {
+      "id": "entry-23",
+      "title": "Platforms Hold Tool 1",
+      "quadrant": "Platforms",
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "description": "Placed in hold for Platforms strategy.",
+          "ringId": "hold",
+          "moved": 0,
+          "isNew": "TRUE"
+        }
+      ]
+    },
+    {
+      "id": "entry-24",
+      "title": "Platforms Hold Tool 2",
+      "quadrant": "Platforms",
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "description": "Placed in hold for Platforms strategy.",
+          "ringId": "hold",
+          "moved": 0,
+          "isNew": "TRUE"
+        }
+      ]
+    },
+    {
+      "id": "entry-25",
+      "title": "Languages Adopt Tool 1",
+      "quadrant": "Languages",
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "description": "Placed in adopt for Languages strategy.",
+          "ringId": "adopt",
+          "moved": 0,
+          "isNew": "TRUE"
+        }
+      ]
+    },
+    {
+      "id": "entry-26",
+      "title": "Languages Adopt Tool 2",
+      "quadrant": "Languages",
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "description": "Placed in adopt for Languages strategy.",
+          "ringId": "adopt",
+          "moved": 0,
+          "isNew": "TRUE"
+        }
+      ]
+    },
+    {
+      "id": "entry-27",
+      "title": "Languages Trial Tool 1",
+      "quadrant": "Languages",
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "description": "Placed in trial for Languages strategy.",
+          "ringId": "trial",
+          "moved": 0,
+          "isNew": "TRUE"
+        }
+      ]
+    },
+    {
+      "id": "entry-28",
+      "title": "Languages Trial Tool 2",
+      "quadrant": "Languages",
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "description": "Placed in trial for Languages strategy.",
+          "ringId": "trial",
+          "moved": 0,
+          "isNew": "TRUE"
+        }
+      ]
+    },
+    {
+      "id": "entry-29",
+      "title": "Languages Assess Tool 1",
+      "quadrant": "Languages",
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "description": "Placed in assess for Languages strategy.",
+          "ringId": "assess",
+          "moved": 0,
+          "isNew": "TRUE"
+        }
+      ]
+    },
+    {
+      "id": "entry-30",
+      "title": "Languages Assess Tool 2",
+      "quadrant": "Languages",
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "description": "Placed in assess for Languages strategy.",
+          "ringId": "assess",
+          "moved": 0,
+          "isNew": "TRUE"
+        }
+      ]
+    },
+    {
+      "id": "entry-31",
+      "title": "Languages Hold Tool 1",
+      "quadrant": "Languages",
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "description": "Placed in hold for Languages strategy.",
+          "ringId": "hold",
+          "moved": 0,
+          "isNew": "TRUE"
+        }
+      ]
+    },
+    {
+      "id": "entry-32",
+      "title": "Languages Hold Tool 2",
+      "quadrant": "Languages",
+      "timeline": [
+        {
+          "date": "2025-01-01",
+          "description": "Placed in hold for Languages strategy.",
+          "ringId": "hold",
+          "moved": 0,
+          "isNew": "TRUE"
+        }
+      ]
+    }
+  ]
+}
