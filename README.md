@@ -10,7 +10,7 @@ Clone the repo then run the following commands in the repo folder.
 ```bash
 npm init -y
 npm install express
-run node server.js
+node server.js
 ```
 
 ## Using
